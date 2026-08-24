@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 96" role="img" aria-label="CepPoint - JetCP Teknik Servis">
+  <!-- kalin C halkasi (sag tarafi acik) + icindeki yesil nokta -->
+  <g transform="translate(6,16)">
+    <path d="M53.3 17.09A26 26 0 1 0 53.3 46.91L43.47 40.03A14 14 0 1 1 43.47 23.97Z" fill="#15171b"/>
+    <circle cx="43" cy="32" r="8" fill="#4fd420"/>
+  </g>
+  <text x="76" y="55" font-family="Segoe UI, system-ui, Arial, sans-serif" font-size="37" font-weight="800" letter-spacing="-1.9">
+    <tspan fill="#3a8f14">cep</tspan><tspan fill="#15171b">point</tspan>
+  </text>
+  <text x="78" y="74" font-family="Segoe UI, system-ui, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="3.4" fill="#7b8598">JETCP TEKN�K SERV�S</text>
+</svg>
